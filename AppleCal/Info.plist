@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Need the calendar to know when events are happening.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Need to be able to remind you of events.</string>
 </dict>
 </plist>
